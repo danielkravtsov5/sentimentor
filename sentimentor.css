@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-image: url(https://wallpapercave.com/wp/wp9870705.jpg);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#result {
+    font-size: 5vh;
+}
